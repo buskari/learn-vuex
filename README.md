@@ -1,5 +1,7 @@
 # learn-vuex
 
+Thats a simple project that fetch an api which generates random numbers to increase the counter
+
 ## Project setup
 ```
 npm install
